@@ -11,7 +11,7 @@ pipeline {
             steps {
 
                 sh 'make check || true' 
-                junit 'C:\Users\aleks\eclipse-workspace\Random\src\SimpleTest.java' 
+                junit 'C:/Users/aleks/eclipse-workspace/Random/src/SimpleTest.java' 
             }
         }
     }
