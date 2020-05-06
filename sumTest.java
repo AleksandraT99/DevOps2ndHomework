@@ -1,4 +1,4 @@
-public class SimpleTest {
+public class sumTest {
 
 	@Test
 	public void test() {
