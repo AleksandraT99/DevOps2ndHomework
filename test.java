@@ -1,14 +1,5 @@
-import static org.junit.Assert.*;
-
-import org.junit.Test;
-
-public class SimpleTest {
-
-	@Test
-	public void test() {
-		int a = 1;
-		int b = 2;
-		assertTrue(a + b == 3);
-	}
-
+class test {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Display the string.
+    }
 }
